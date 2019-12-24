@@ -1,0 +1,19 @@
+{
+  "name": "s-input",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckyCbaby/s-input.git"
+  },
+  "author": "shijie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luckyCbaby/s-input/issues"
+  },
+  "homepage": "https://github.com/luckyCbaby/s-input#readme"
+}
